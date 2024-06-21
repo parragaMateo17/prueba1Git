@@ -1,2 +1,6 @@
 hola mundo
 hola mundo 2
+solo puedo usar el comando git push sin el origin cuando solo tengo una rama
+cuando tengo mas ramas debo hacer git push origin features/login por ejemplo
+primero deberia existir la rama principal o master al copiar el proyecto
+si yo creé el proyecto primero debo hacer un push de la rama master y despues las demas
